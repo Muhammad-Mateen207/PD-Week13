@@ -33,7 +33,6 @@ int returnIndex(string array, char a)
             return i;
         }
     }
-    return -1;
 }
 string filterElements(string array, string line)
 {
